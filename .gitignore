@@ -1,0 +1,89 @@
+# 环境文件
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# API 密钥和机密
+*.key
+*.pem
+secrets.json
+config/secrets.yml
+.secrets
+
+# 操作系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# 编辑器文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.yarn/
+lerna-debug.log*
+
+# 构建产物
+dist/
+build/
+*.tsbuildinfo
+.cache/
+
+# 测试覆盖率
+coverage/
+.nyc_output/
+
+# 日志
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# 任务文件（Claude Code 团队）
+tasks/
+
+# 个人配置（如有）
+personal/
+private/
+
+# 会话模板（不提交）
+examples/sessions/*.tmp
+
+# 本地草稿
+marketing/
+.dmux/
+
+# 临时文件
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+
+# 引导流水线产物
+# 工具子目录中生成的锁文件
+.opencode/package-lock.json
+.opencode/node_modules/
