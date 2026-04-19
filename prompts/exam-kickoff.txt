@@ -2,7 +2,7 @@
 
 请使用下面这套工作流。它继承自 ECC 的先规划、先搜索、TDD、验证和文档更新方法，但已经压缩为考试可交付版本：
 
-1. 如果这个项目根目录还没有 `agent/project.md`、`agent/tasks.md`、`agent/timeline.md` 和 `agent/agents.md`，先创建它们，并把它们作为本次会话状态。
+1. 如果这个项目根目录还没有 `agent/project.md`、`agent/tasks.md`、`agent/timeline.md` 和根目录 `AGENTS.md`，先创建它们，并把它们作为本次会话状态。
 2. 读取 `agent/timeline.md` 和 `agent/tasks.md`，总结当前状态，然后把当前请求更新到 `agent/tasks.md`。
 3. 用平实语言复述题目。
 4. 在提出新抽象之前，先在仓库和当前技术栈里搜索现有 helper、模式和测试。

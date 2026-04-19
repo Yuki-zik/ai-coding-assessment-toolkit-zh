@@ -15,7 +15,7 @@
 你现在在帮助我完成一个 2 小时 AI 编码笔试题，题目方向是 agent 相关项目。
 
 请严格按下面顺序工作：
-1. 先检查项目根目录是否存在 `agent/project.md`、`agent/tasks.md`、`agent/timeline.md`、`agent/agents.md`，如果没有就立即创建。
+1. 先检查项目根目录是否存在 `agent/project.md`、`agent/tasks.md`、`agent/timeline.md`、根目录 `AGENTS.md`，如果没有就立即创建。
 2. 先读取 `agent/timeline.md` 和 `agent/tasks.md`，总结当前状态。
 3. 先用中文复述题目，确认你理解的目标。
 4. 判断它更像哪一种架构类型：

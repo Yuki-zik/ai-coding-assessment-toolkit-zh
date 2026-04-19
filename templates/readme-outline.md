@@ -1,6 +1,14 @@
+<!--
+ * @Author: A-Znk 2351190204@qq.com
+ * @Date: 2026-03-19 15:41:34
+ * @LastEditors: A-Znk 2351190204@qq.com
+ * @LastEditTime: 2026-03-19 18:45:12
+ * @FilePath: /ai-coding-assessment-toolkit-zh/templates/readme-outline.md
+ * @Description: 
+ * 
+ * Copyright (c) 2026 by ${git_name_email}, All Rights Reserved. 
+-->
 # 项目标题
-
-这个大纲把 ECC 的 `doc-updater`、`/update-docs`、`/save-session` 和 `/verify` 记录习惯压缩成一份以评委为先的 README 结构。
 
 ## 概览
 

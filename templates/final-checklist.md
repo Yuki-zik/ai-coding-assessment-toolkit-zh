@@ -1,6 +1,14 @@
+<!--
+ * @Author: A-Znk 2351190204@qq.com
+ * @Date: 2026-03-19 15:41:34
+ * @LastEditors: A-Znk 2351190204@qq.com
+ * @LastEditTime: 2026-03-19 18:45:25
+ * @FilePath: /ai-coding-assessment-toolkit-zh/templates/final-checklist.md
+ * @Description: 
+ * 
+ * Copyright (c) 2026 by ${git_name_email}, All Rights Reserved. 
+-->
 # 最终检查清单
-
-这份清单将 ECC 的验证、审查和安全门槛压缩成考试最后 10 分钟可用的一轮检查。
 
 ## 运行
 

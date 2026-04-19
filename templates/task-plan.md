@@ -1,6 +1,5 @@
 # 任务计划
 
-这个模板把 ECC 的 `planner`、`/plan` 和 `search-first` 工作流压缩成一份考试尺寸的工作表。
 
 ## 题目摘要
 

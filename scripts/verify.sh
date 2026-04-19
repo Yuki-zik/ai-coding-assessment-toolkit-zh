@@ -25,7 +25,7 @@ required_paths=(
   "templates/project-agent/project.md"
   "templates/project-agent/tasks.md"
   "templates/project-agent/timeline.md"
-  "templates/project-agent/agents.md"
+  "templates/project-agent/AGENTS.md"
   "templates/readme-outline.md"
   "templates/final-checklist.md"
   "prompts/exam-kickoff.txt"
